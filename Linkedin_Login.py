@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By  # For locating elements on the page
 from selenium.webdriver.chrome.service import Service  # For managing ChromeDriver service
 from selenium.webdriver.chrome.options import Options  # For setting Chrome options
 import time  # For adding delays
-
+ 
 # ANSI escape code for green text
 GREEN = "\033[92m"  # Code to set text color to green
 RESET = "\033[0m"  # Code to reset text color to default
